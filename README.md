@@ -8,4 +8,4 @@ I worked as a Salesforce Administrator and developer for 1.5 years with a backgr
 
 ![MEME](https://sayingimages.com/wp-content/uploads/funny-school-highlight-memes.jpg)
 
-theme: minima
+
